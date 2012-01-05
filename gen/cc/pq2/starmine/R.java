@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package cc.pq2;
+package cc.pq2.starmine;
 
 public final class R {
     public static final class attr {

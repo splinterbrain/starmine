@@ -1,5 +1,6 @@
-package cc.pq2;
+package cc.pq2.starmine;
 
+import cc.pq2.starmine.R;
 import android.app.Activity;
 import android.os.Bundle;
 
